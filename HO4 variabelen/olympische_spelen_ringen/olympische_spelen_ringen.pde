@@ -1,0 +1,11 @@
+size(450,450);
+int x = 75;
+int y = 75;
+int g = 75;
+int b = 75;
+noFill();
+ellipse(x,y,g,b);
+ellipse(x+65,y,g,b);
+ellipse(x+130,y,g,b);
+ellipse(x+35,y+55,g,b);
+ellipse(x+95,y+55,g,b);
